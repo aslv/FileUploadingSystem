@@ -1,0 +1,18 @@
+table.form tr {
+	border: 2px solid #70AAFF;
+	border-radius: 5px;
+}
+table.form th:nth-child(odd), table.form td:nth-child(odd) {
+	background-color: #D6E6FF;
+}
+th, td {
+	text-align: center;
+}
+table a {
+	text-decoration: none;
+	color: #000;
+}
+table a:hover {
+	text-decoration: underline;
+	color: #70AAFF;
+}
